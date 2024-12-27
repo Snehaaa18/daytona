@@ -10,6 +10,11 @@
     "gitUrl": "https://github.com/daytonaio/sample-debian"
   },
   {
+    "name" : " dusease prediction"
+    "description": "Predicts dengue prone areas according to the weather"
+    "gitUrl": "https://github.com/daytonaio/sample-flask-disease-prediction"
+  },
+  {
     "name": "React node note share webapp",
     "description": "It is a note taking webapp, where user's can share notes.",
     "gitUrl": "https://github.com/daytonaio/sample-react-node-note-share-webapp"
